@@ -1,0 +1,9 @@
+Leche, Avena, Manzanas, Whiskats, Aceite
+Avena, Chocolate, Pan, Leche
+Refresco, Helado, Mantequilla, Mermelada
+Leche, Pan, Huevo, Refresco, Galletas
+Pan ,Leche, Yogurt , Huevo, Jamon
+Agua, Pan, Leche, Cafe, Galletas
+Tomate, Oregano, Leche, Gelatina
+Pan,  Leche,  Helado, Gelatina, Jugo
+Pan, Leche, Huevo, Aceite
